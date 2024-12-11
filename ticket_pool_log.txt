@@ -1,0 +1,68 @@
+[2024-12-11T23:31:50.786828200] Vendor 1 added 2 tickets. Total tickets: 4
+[2024-12-11T23:31:50.813435200] Customer 2 retrieved Ticket-1. Remaining tickets: 3
+[2024-12-11T23:31:50.822594800] Customer 1 retrieved Ticket-2. Remaining tickets: 2
+[2024-12-11T23:31:50.824085200] Vendor 2 added 2 tickets. Total tickets: 6
+[2024-12-11T23:31:55.806821700] Vendor 1 added 2 tickets. Total tickets: 10
+[2024-12-11T23:31:55.830418300] Vendor 2 added 2 tickets. Total tickets: 14
+[2024-12-11T23:31:56.832630] Customer 1 retrieved Ticket-3. Remaining tickets: 13
+[2024-12-11T23:31:56.836179500] Customer 2 retrieved Ticket-4. Remaining tickets: 12
+[2024-12-11T23:32:00.813036400] Vendor 1 is waiting as the pool is full. Current tickets: 12
+[2024-12-11T23:32:00.844817600] Vendor 2 is waiting as the pool is full. Current tickets: 12
+[2024-12-11T23:32:02.847373100] Customer 2 retrieved Ticket-3. Remaining tickets: 11
+[2024-12-11T23:32:02.851404700] Vendor 1 is waiting as the pool is full. Current tickets: 11
+[2024-12-11T23:32:02.854304] Vendor 2 is waiting as the pool is full. Current tickets: 11
+[2024-12-11T23:32:02.855600600] Customer 1 retrieved Ticket-4. Remaining tickets: 10
+[2024-12-11T23:32:02.858719200] Vendor 1 added 2 tickets. Total tickets: 14
+[2024-12-11T23:32:02.861695600] Vendor 2 is waiting as the pool is full. Current tickets: 14
+[2024-12-11T23:32:07.869425] Vendor 1 is waiting as the pool is full. Current tickets: 14
+[2024-12-11T23:32:08.857016400] Customer 2 retrieved Ticket-5. Remaining tickets: 13
+[2024-12-11T23:32:08.860762100] Vendor 2 is waiting as the pool is full. Current tickets: 13
+[2024-12-11T23:32:08.862952300] Vendor 1 is waiting as the pool is full. Current tickets: 13
+[2024-12-11T23:32:08.872297400] Customer 1 retrieved Ticket-6. Remaining tickets: 12
+[2024-12-11T23:32:08.875806900] Vendor 2 is waiting as the pool is full. Current tickets: 12
+[2024-12-11T23:32:08.881853900] Vendor 1 is waiting as the pool is full. Current tickets: 12
+[2024-12-11T23:32:14.874674300] Customer 2 retrieved Ticket-7. Remaining tickets: 11
+[2024-12-11T23:32:14.879664600] Vendor 2 is waiting as the pool is full. Current tickets: 11
+[2024-12-11T23:32:14.881321800] Vendor 1 is waiting as the pool is full. Current tickets: 11
+[2024-12-11T23:32:14.890372800] Customer 1 retrieved Ticket-8. Remaining tickets: 10
+[2024-12-11T23:32:14.895025700] Vendor 2 added 2 tickets. Total tickets: 14
+[2024-12-11T23:32:14.896908400] Vendor 1 is waiting as the pool is full. Current tickets: 14
+[2024-12-11T23:32:19.907763] Vendor 2 is waiting as the pool is full. Current tickets: 14
+[2024-12-11T23:32:20.884477200] Customer 2 retrieved Ticket-9. Remaining tickets: 13
+[2024-12-11T23:32:20.888461500] Vendor 1 is waiting as the pool is full. Current tickets: 13
+[2024-12-11T23:32:20.889194600] Vendor 2 is waiting as the pool is full. Current tickets: 13
+[2024-12-11T23:32:20.900278800] Customer 1 retrieved Ticket-10. Remaining tickets: 12
+[2024-12-11T23:32:20.903919400] Vendor 1 is waiting as the pool is full. Current tickets: 12
+[2024-12-11T23:32:20.905036200] Vendor 2 is waiting as the pool is full. Current tickets: 12
+[2024-12-11T23:32:26.899767500] Customer 2 retrieved Ticket-11. Remaining tickets: 11
+[2024-12-11T23:32:26.902986300] Vendor 1 is waiting as the pool is full. Current tickets: 11
+[2024-12-11T23:32:26.903629100] Vendor 2 is waiting as the pool is full. Current tickets: 11
+[2024-12-11T23:32:26.915254700] Customer 1 retrieved Ticket-12. Remaining tickets: 10
+[2024-12-11T23:32:26.918913800] Vendor 1 added 2 tickets. Total tickets: 14
+[2024-12-11T23:32:26.920817600] Vendor 2 is waiting as the pool is full. Current tickets: 14
+[2024-12-11T23:32:30.097466700] TicketPool is terminating. No further actions will be processed.
+[2024-12-11T23:55:41.698483500] Vendor 1 added 3 tickets. Total tickets: 5
+[2024-12-11T23:55:41.741425900] Customer 1 retrieved Ticket-1. Remaining tickets: 4
+[2024-12-11T23:55:41.749141] Customer 2 retrieved Ticket-2. Remaining tickets: 3
+[2024-12-11T23:55:41.750054900] Vendor 2 is waiting as the pool is full. Current tickets: 3
+[2024-12-11T23:55:42.755729300] Customer 2 retrieved Ticket-3. Remaining tickets: 2
+[2024-12-11T23:55:42.757996600] Vendor 2 is waiting as the pool is full. Current tickets: 2
+[2024-12-11T23:55:42.759610900] Customer 1 retrieved Ticket-4. Remaining tickets: 1
+[2024-12-11T23:55:42.759610900] Vendor 2 added 3 tickets. Total tickets: 6
+[2024-12-11T23:55:43.764415] Customer 2 retrieved Ticket-5. Remaining tickets: 5
+[2024-12-11T23:55:43.766569] Customer 1 retrieved Ticket-2. Remaining tickets: 4
+[2024-12-11T23:55:44.767956] Customer 2 retrieved Ticket-3. Remaining tickets: 3
+[2024-12-11T23:55:44.784073100] Customer 1 retrieved Ticket-4. Remaining tickets: 2
+[2024-12-11T23:55:45.773731600] Customer 2 retrieved Ticket-5. Remaining tickets: 1
+[2024-12-11T23:55:45.805530100] Customer 1 retrieved Ticket-6. Remaining tickets: 0
+[2024-12-11T23:55:46.779957400] Customer 2 is waiting as there are no tickets available.
+[2024-12-11T23:55:46.811963100] Customer 1 is waiting as there are no tickets available.
+[2024-12-11T23:55:49.738251200] Vendor 1 added 3 tickets. Total tickets: 5
+[2024-12-11T23:55:49.741200400] Customer 2 retrieved Ticket-1. Remaining tickets: 4
+[2024-12-11T23:55:49.743235800] Customer 1 retrieved Ticket-2. Remaining tickets: 3
+[2024-12-11T23:55:50.757186100] Customer 1 retrieved Ticket-3. Remaining tickets: 2
+[2024-12-11T23:55:50.760121] Customer 2 retrieved Ticket-4. Remaining tickets: 1
+[2024-12-11T23:55:50.772406700] Vendor 2 added 3 tickets. Total tickets: 6
+[2024-12-11T23:55:51.761631100] Customer 2 retrieved Ticket-5. Remaining tickets: 5
+[2024-12-11T23:55:51.763370] Customer 1 retrieved Ticket-2. Remaining tickets: 4
+[2024-12-11T23:55:52.026555600] TicketPool is terminating. No further actions will be processed.
